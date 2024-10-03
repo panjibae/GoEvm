@@ -1,0 +1,23 @@
+# Binary files
+*.exe
+*.out
+*.bin
+
+# Vendor directory
+/vendor/
+
+# Build and cache directories
+/bin/
+/pkg/
+/build/
+
+# Environment configuration
+.env
+.env.local
+
+# IDE or editor specific files
+.idea/
+.vscode/
+
+# macOS specific files
+.DS_Store
